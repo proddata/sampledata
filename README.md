@@ -1,0 +1,2 @@
+# sampledata
+sampledata for cratdb

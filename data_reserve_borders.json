@@ -1,0 +1,2 @@
+{"reserve_name": "Majestic Reserve", "area": {"type": "Polygon", "coordinates": [[[40.5, -3.5], [40.7, -3.5], [40.7, -4], [40.5, -4], [40.5, -3.5]]]}}
+{"reserve_name": "Serenity Reserve", "area": {"type": "Polygon", "coordinates": [[[40.8, -3.6], [41, -3.6], [41, -3.9], [40.8, -3.9], [40.8, -3.6]]]}}
